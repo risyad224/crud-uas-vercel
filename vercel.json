@@ -19,7 +19,8 @@
     "APP_DEBUG": "true",
     "CACHE_STORE": "array",
     "SESSION_DRIVER": "cookie",
-    "QUEUE_CONNECTION": "sync"
+    "QUEUE_CONNECTION": "sync",
+    "LOG_CHANNEL": "errorlog"
   },
   "outputDirectory": "public"
 }
